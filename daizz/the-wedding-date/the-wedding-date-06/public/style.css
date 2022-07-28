@@ -224,7 +224,7 @@ position: relative;
 margin: 0 auto;
 width: 100%;
 overflow:hidden;
-background:url(images/rose-bg.jpg) #474546;
+background:linear-gradient(to bottom, rgba(245, 246, 252, 0.52), rgba(117, 19, 93, 0.73)),url(./images/2.jpeg) #474546 ;
 -webkit-background-size: 100%; 
 -moz-background-size: 100%;
 -o-background-size: 100%;
